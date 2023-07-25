@@ -1,5 +1,5 @@
 # AIoT SerBot G
-![](https://github.com/hanback-docs/Serbot-G-Docs/assets/56662413/99109480-0e51-43d6-be71-37a3c835cd44)
+![]([https://github.com/hanback-docs/Serbot-G-Docs/assets/56662413/99109480-0e51-43d6-be71-37a3c835cd44](https://github.com/hanback-docs/Serbot-G-Docs/blob/main/SerBot-G.png))
 
 ## Product Features 
 - Indoor intelligent IoT service robot training equipment can be assembled and consists of brain module and driving module
