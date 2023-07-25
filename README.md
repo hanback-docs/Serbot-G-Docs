@@ -1,32 +1,34 @@
 # AIoT SerBot G
-![]([https://github.com/hanback-docs/Serbot-G-Docs/assets/56662413/99109480-0e51-43d6-be71-37a3c835cd44](https://github.com/hanback-docs/Serbot-G-Docs/blob/main/SerBot-G.png))
+![](https://github.com/hanback-docs/Serbot-G-Docs/blob/main/SerBot-G.png)
 
 ## Product Features 
-- Indoor intelligent IoT service robot training equipment can be assembled and consists of brain module and driving module
+- AI and IoT Convergence Training Equipment based on Indoor Service Robot Platform
 
-- Drive unit adopts a 3-axis omni wheel to maximize the robot’s movement efficiency and minimize the turning radius
+- Drive part adopts 3-axis omni-wheel to maximize robot’s movement efficiency and minimize rotation radius
 
-- Main module is an edge supercomputer to support all popular AI framework
+- The main module is an edge supercomputer that supports all existing AI frameworks
 
-- Gigabit Ethernet, dual-band Wi-Fi and Bluetooth for IoT connectivity are provided
+- Provides a 7-inch touch display with 1280×720 resolution and a 160-degree wide-angle camera with 8M pixels
 
-- Camera-based self- driving algorithm is implemented and vision camera for AI recognition judgment is built-in
+- Provides Gigabit Ethernet, dual-band Wi-Fi and Bluetooth
 
-- Large-capacity battery and built-in charger
+- Digital microphones and speakers support Speech-to-Text and Text-to-Speech as well as voice command
 
-- Supports dedicated operating system, Soda OS and Pop library, to minimize hardware dependence
+- Supports various IoT sensor modules through 4 dedicated expansion interfaces
 
-- Supports interpreter-based C/C++ development environment optimized for IoT programming including Python 3
+- High-capacity battery and dedicated charging system enable continuous experiment while charging
 
-- Supports web browser-based dedicated learning environment that can simultaneously train Python 3 and C/C++ on PC and tablet
+- Soda OS and Pop library, the exclusive AIoT operating system
 
-- Confirming the name of mDNS/DNS-SD based dispersion and supporting the posting and discovery of network service
+- Interpreter-based C/C++ development environments optimized for beginners to programming, including Python 3
 
-- Supports integrated development environment for public use based on Visual Studio Code for professional application development
+- A dedicated web browser-based learning environment for training Python 3 and C/C++ simultaneously on PCs and tablets
 
-- Easy programming through block coding, and automatic conversion to Python code is possible
+- mDNS/DNS-SD based distributed name resolution and network service publishing and discovery support
 
-- Provides IoT learning contents and deep learning-based service robot learning model
+- Open Integrated development environment based on Visual Studio Code for professional application development
+
+- Educational contents for artificial intelligence and deep learning based service robot
 
 ## Pop Library
 - Control of the device can be easily implemented by using existing libraries such as rpi.gpio
